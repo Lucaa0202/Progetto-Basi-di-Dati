@@ -1,2 +1,2 @@
-Progetto che permette la gestione di Sale Cinematografiche.
+Gestione di Sale Cinematohgrafiche.
 Università degli Studi di Roma "Tor Vergata"
