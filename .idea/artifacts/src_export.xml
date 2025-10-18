@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="src_export">
+    <output-path>$PROJECT_DIR$/out/artifacts/src_export</output-path>
+    <root id="root" />
+  </artifact>
+</component>
