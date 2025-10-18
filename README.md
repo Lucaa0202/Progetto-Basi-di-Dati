@@ -1,2 +1,2 @@
-Gestione di Sale Cinematografiche.
+Sistema di Gestione di Sale Cinematografiche.
 Università degli Studi di Roma "Tor Vergata"
